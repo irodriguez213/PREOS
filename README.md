@@ -1,3 +1,7 @@
+PVT Simulator
+=============
+This is a variation of the project Peng-Robinson Equation of State solver, published by Cory Simon
+
 Peng-Robinson Equation of State solver
 ======================================
 
